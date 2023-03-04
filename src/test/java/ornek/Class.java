@@ -3,13 +3,17 @@ package ornek;
 public class Class {
     public static void main(String[] args) {
         System.out.println("Github claismasi yapildi");
+        for (int i = 0; i <5 ; i++) {
+            System.out.println(i+5);
+
+        }
     }
 }
 
 
 
 
-        git commit -m "first commit"
-        git branch -M main
-        git remote add origin https://github.com/Mhmthrn/MehmetGithub.git
-        git push -u origin main
+
+
+
+
